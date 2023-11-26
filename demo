@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <style>
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        /* Add more styles as needed */
+
+        /* Media queries for responsiveness */
+        @media (max-width: 600px) {
+            /* Adjust styles for smaller screens */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ahamed Ariff</h1>
+        <p>Web Developer | Passionate about Frontend</p>
+    </header>
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Your brief biography goes here. CAD,Sketchup , and fresher.</p>
+        </section>
+        <section id="resume">
+            <h2>Resume</h2>
+            <p>Include your resume details here. You can create a downloadable PDF version as well.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: Ahamedariff78660@gmail.com</p>
+            <p>Phone: +919344898080</p>
+            <!-- Add social media links if desired -->
+        </section>
+    </div>
+    <!-- Add JavaScript functionality if needed -->
+    <script>
+        // Your custom JavaScript code can go here
+    </script>
+</body>
+</html>
